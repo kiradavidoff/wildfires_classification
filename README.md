@@ -175,8 +175,8 @@ Threshold selection is critical.
 
 ```bash
 # clone repo
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/kiradavidoff/wildfires_classification.git
+cd wildfires_classification
 
 # install dependencies
 pip install -r requirements.txt
