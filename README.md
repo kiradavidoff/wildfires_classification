@@ -1,5 +1,5 @@
 # Identifying Fires from Aerial Footage
-# 🔥 Identifying Fires from Aerial Footage
+
 
 Machine learning pipeline for wildfire detection using aerial imagery, focusing on **data leakage mitigation, lightweight CNN design, and real-world deployment trade-offs**.
 
